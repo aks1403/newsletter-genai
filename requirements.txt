@@ -1,0 +1,11 @@
+crewai
+langchain
+langchain-anthropic
+langchain-openai
+langchain-groq
+langchain-ollama
+langchain-google-genai
+streamlit
+python-dotenv
+crewai_tools
+exa_py
